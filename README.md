@@ -11,14 +11,6 @@ Built by a solo dev rebuilding life from first principles, `echoday` helps you a
 - 📊 Light stats, no forced gamification  
 - 📁 Built with Next.js + Tailwind
 
-## 🛠️ Getting Started
-
-```bash
-npm run dev
-# or yarn / pnpm / bun
-
-Then visit http://Echoday.com to begin.
-
 ## 💡 Philosophy
 
 “Progress isn’t fast—it’s precise.” Echoday is designed for solo flow, not social pressure. Routines are data. Emotions are signal. Mastery is iterative.
@@ -34,3 +26,13 @@ Then visit http://Echoday.com to begin.
 
 - Next.js
 - Tailwind CSS
+
+
+## 🛠️ Getting Started
+Then visit http://Echoday.com to begin. or
+```bash
+npm run dev
+# or yarn / pnpm / bun
+
+
+
