@@ -29,7 +29,7 @@ Built by a solo dev rebuilding life from first principles, `echoday` helps you a
 
 
 ## 🛠️ Getting Started
-Then visit http://echoday.com to begin. or
+Then visit [http://echoday.com](https://echoday.vercel.app/) to begin. or
 ```bash
 npm run dev
 # or yarn / pnpm / bun
